@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Franco Yudica</h1>
 <h3 align="center">A passionate game developer from Argentina studying computer science</h3>
 
-- 🔭 I’m currently working on [a game called Path Forger!](https://franco-yudica.itch.io/path-forger)
+- 🔭 I’m currently working on a game called [Path Forger](https://franco-yudica.itch.io/path-forger)
 
 - 🌱 I’m currently learning **Godot**
 
 - 👯 I’m looking to collaborate on **video game development**
 
-- 👨‍💻 All of my games are available at [https://f1234811.itch.io/](https://franco-yudica.itch.io/)
+- 👨‍💻 All of my games are available in my [itch profile](https://franco-yudica.itch.io/)
 
 - 📫 How to reach me **francoyudica@gmail.com**
 
