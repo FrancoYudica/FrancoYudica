@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a game called [Path Forger](https://franco-yudica.itch.io/path-forger)
 
-- 🌱 I’m currently learning **Godot**
+- 🌱 I’m currently learning **Godot** and **Computer graphics**
 
 - 👯 I’m looking to collaborate on **video game development**
 
