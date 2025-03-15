@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Franco Yudica</h1>
 <h3 align="center">A passionate game developer from Argentina studying computer science</h3>
 
-- 🔭 I’m currently working on an image generation tool called [Genart](https://github.com/FrancoYudica/Genart) and a game called [Path Forger](https://franco-yudica.itch.io/path-forger) 
+- 🔭 I’m currently working on an image generation tool called [Shapeify](https://github.com/FrancoYudica/Shapeify) and a game called [Path Forger](https://franco-yudica.itch.io/path-forger) 
 
 - 🌱 I’m currently learning **Godot** and **Computer graphics**
 
