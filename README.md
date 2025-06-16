@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Franco Yudica</h1>
 <h3 align="center">A passionate game developer from Argentina studying computer science</h3>
 
-- 🔭 I’m currently working on an image generation tool called [Shapeify](https://github.com/FrancoYudica/Shapeify) and a game called [Path Forger](https://franco-yudica.itch.io/path-forger) 
+- 🌱 I’m currently learning [**Vulkan**](https://www.vulkan.org/) and **Computer graphics**
 
-- 🌱 I’m currently learning **Godot** and **Computer graphics**
-
-- 👯 I’m looking to collaborate on **video game development**
+- 👯 I’m looking to collaborate on **video game / engine development**
 
 - 👨‍💻 All of my games are available in my [itch profile](https://franco-yudica.itch.io/)
 
