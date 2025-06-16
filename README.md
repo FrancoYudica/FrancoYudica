@@ -8,6 +8,8 @@
 - 👨‍💻 All of my games are available in my [itch profile](https://franco-yudica.itch.io/)
 
 - 📫 How to reach me **francoyudica@gmail.com**
+  
+- 🖥️ [My personal website](https://www.francoyudica.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
