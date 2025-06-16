@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Franco Yudica</h1>
-<h3 align="center">A passionate game developer from Argentina studying computer science</h3>
+<h3 align="center">A passionate game developer and graphics programmer from Argentina studying computer science</h3>
 
 - 🌱 I’m currently learning [**Vulkan**](https://www.vulkan.org/) and **Computer graphics**
 
