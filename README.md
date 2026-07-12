@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Franco Yudica</h1>
 <h3 align="center">A passionate game developer and graphics programmer from Argentina studying computer science</h3>
 
-- 🌱 I’m currently working on game development and my [thesis](https://github.com/FrancoYudica/godot-ml), an AI inference engine for the godot game engine.
+- 🌱 I’m currently working on my [thesis](https://github.com/FrancoYudica/godot-ml), an AI inference engine for the godot game engine.
 
 - 👯 I’m looking to collaborate on **video game / engine development**
 
