@@ -1,20 +1,48 @@
-<h1 align="center">Hi 👋, I'm Franco Yudica</h1>
-<h3 align="center">A passionate game developer and graphics programmer from Argentina studying computer science</h3>
+<h1 align="center">Franco Yudica</h1>
+<p align="center">Game & graphics programmer, real-time rendering, GPU compute, and game engines.</p>
 
-- 🌱 I’m currently working on my [thesis](https://github.com/FrancoYudica/godot-ml), an AI inference engine for the godot game engine.
+Based in Argentina, currently building [godot-ml](https://github.com/FrancoYudica/godot-ml), a GPU-accelerated ONNX inference engine for Godot, as my thesis. I like working close to the GPU on compute shaders, renderers, and engine internals, and I'm open to collaborating on game or engine development.
 
-- 👯 I’m looking to collaborate on **video game / engine development**
+## Featured work
 
-- 👨‍💻 All of my games are available in my [itch profile](https://franco-yudica.itch.io/)
+<table>
+<tr>
+<td width="33%">
+<a href="https://www.francoyudica.com/posts/PathTracerCompute/">
+<img src="https://www.francoyudica.com/assets/path-tracer-compute/sample.png" width="100%" alt="Path Tracer Compute" />
+</a>
+<br />
+<b><a href="https://www.francoyudica.com/posts/PathTracerCompute/">Path Tracer Compute</a></b>
+<br />
+Real-time path tracer built with compute shaders.
+</td>
+<td width="33%">
+<a href="https://www.francoyudica.com/posts/DistributedFractals/">
+<img src="https://www.francoyudica.com/assets/distributed_fractals/sample.gif" width="100%" alt="Distributed Fractals" />
+</a>
+<br />
+<b><a href="https://www.francoyudica.com/posts/DistributedFractals/">Distributed Fractals</a></b>
+<br />
+Clustered, GPU-driven fractal renderer.
+</td>
+<td width="33%">
+<a href="https://github.com/FrancoYudica/godot-ml">
+<img src="https://github.com/user-attachments/assets/661b9e6c-d636-4db7-958c-6d9de76a4bc2" width="100%" alt="godot-ml" />
+</a>
+<br />
+<b><a href="https://github.com/FrancoYudica/godot-ml">godot-ml</a></b>
+<br />
+GPU neural-network inference inside Godot's rendering pipeline (thesis).
+</td>
+</tr>
+</table>
 
-- 📫 How to reach me **francoyudica@gmail.com**
-  
-- 🖥️ [My personal website](https://www.francoyudica.com/)
+More games and graphics projects on my [website](https://www.francoyudica.com/) and [itch.io](https://franco-yudica.itch.io/).
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/franco yudica" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="franco yudica" height="30" width="40" /></a>
-</p>
+## Tech
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://www.gotut.net/wp-content/uploads/2018/12/logo.png" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+C++ · C# · Python · Godot · Unity · GLSL / Compute Shaders · Git
+
+## Contact
+
+[Email](mailto:francoyudica@gmail.com) · [Website](https://www.francoyudica.com/) · [itch.io](https://franco-yudica.itch.io/) · [LinkedIn](https://linkedin.com/in/franco-yudica)
