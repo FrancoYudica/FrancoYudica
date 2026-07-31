@@ -17,13 +17,13 @@ Based in Argentina, currently building [godot-ml](https://github.com/FrancoYudic
 Real-time path tracer built with compute shaders.
 </td>
 <td width="33%">
-<a href="https://www.francoyudica.com/posts/DistributedFractals/">
-<img src="https://www.francoyudica.com/assets/distributed_fractals/sample.gif" width="100%" alt="Distributed Fractals" />
+<a href="https://www.francoyudica.com/posts/Shapeify/">
+<img src="https://www.francoyudica.com/assets/shapeify/generation_sample.gif" width="100%" alt="Shapeify" />
 </a>
 <br />
-<b><a href="https://www.francoyudica.com/posts/DistributedFractals/">Distributed Fractals</a></b>
+<b><a href="https://www.francoyudica.com/posts/Shapeify/">Shapeify</a></b>
 <br />
-Clustered, GPU-driven fractal renderer.
+Recreates images from simple shapes using local search.
 </td>
 <td width="33%">
 <a href="https://github.com/FrancoYudica/godot-ml">
@@ -42,6 +42,10 @@ More games and graphics projects on my [website](https://www.francoyudica.com/) 
 ## Tech
 
 C++ · C# · Python · Godot · Unity · GLSL / Compute Shaders · Git
+
+## Languages
+
+![Top languages](./profile/top-langs.svg)
 
 ## Contact
 
