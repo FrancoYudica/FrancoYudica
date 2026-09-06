@@ -130,7 +130,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="135.94"
+          width="135.98"
           height="8"
           fill="#f34b7d"
         />
@@ -138,9 +138,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="135.94"
+          x="135.98"
           y="0"
-          width="54.26"
+          width="54.22"
           height="8"
           fill="#355570"
         />
@@ -150,7 +150,7 @@
           data-testid="lang-progress"
           x="190.2"
           y="0"
-          width="32.96"
+          width="32.95"
           height="8"
           fill="#555555"
         />
@@ -158,9 +158,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="223.16"
+          x="223.14999999999998"
           y="0"
-          width="15"
+          width="15.01"
           height="8"
           fill="#3572A5"
         />
@@ -168,7 +168,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="238.16"
+          x="238.15999999999997"
           y="0"
           width="18.490000000000002"
           height="8"
@@ -178,7 +178,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="246.65"
+          x="246.64999999999998"
           y="0"
           width="13.34"
           height="8"
@@ -191,14 +191,14 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#f34b7d" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C++ 54.37%
+        C++ 54.39%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#355570" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        GDScript 21.70%
+        GDScript 21.69%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
